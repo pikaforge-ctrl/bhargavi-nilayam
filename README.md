@@ -3,7 +3,7 @@
 
 ## 🎮 Play the Game
 
-[▶ PLAY BHARGAVI NILAYAM](https://YOUR-USERNAME.github.io/Bhargavi-Nilayam/)
+[▶ PLAY BHARGAVI NILAYAM](https://pikaforge-ctrl.github.io/bhargavi-nilayam/)
 
 # 🏚️ Bhargavi Nilayam
 
