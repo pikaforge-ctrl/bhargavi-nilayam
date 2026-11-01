@@ -1,6 +1,12 @@
 # bhargavi-nilayam
 # 🏚️ Bhargavi Nilayam
 
+## 🎮 Play the Game
+
+[▶ PLAY BHARGAVI NILAYAM](https://YOUR-USERNAME.github.io/Bhargavi-Nilayam/)
+
+# 🏚️ Bhargavi Nilayam
+
 ### A Psychological Horror Game Inspired by Old Kerala
 
 ![Game Type](https://img.shields.io/badge/Genre-Psychological%20Horror-red)
